@@ -1,0 +1,141 @@
+{header}
+Logo
+
+icon-phone
+Atendimento
+
+Produtos
+Serviços
+Recursos
+Conteúdo
+
+Minha Conta<==Botão==>
+<==CONTRATAR==>
+
+{body} 
+
+[Imagem de fundo]
+
+Online, a sua empresa não para!
+
+HOSPEDAGEM DE SITE NÃO É TUDO IGUAL
+Hospedagem de sites especializada em WordPress com temas e plugins premium + cursos profissionalizantes de criação de sites e lojas virtuais disponíveis no pacote de serviços Combo Cloud. E mais:
+
+icon-orange
+Registro de Domínio Grátis*
+
+icon-orange
+CND - Acelerador de Site
+
+icon-orange
+SLL - Site Seguro
+
+icon-orange
+Suporte Técnico Premiado
+
+VER PLANOS DE HOSPEDAGEM<== Botão ==>
+
+Casos de Sucesso de Clientes [Nome da empresa]<==Botão==>
+
+[símbolo de dominio ou algo parecido][serch value=Digite o domínio desejado]padding de + ou - 30px [serch value=.com][img lupa]
+[escrito meio pequeno]
+.brR$64,90 .com R$69,90 .net R$89,90 .orgR$89,90
+
+
+PLUGINS E TEMAS PREMIUM PARA WORDPRESS
+EM TODOS OS PLANOS DE HOSPEDAGEM DE SITE
+
+[Colunas verticais]
+
+[1 Colunas]
+
+Combo
+Cloud 1
+
+Indicado para sites e blogs com baixo consumo de recursos e poucos acessos.
+
+R$59,90 
+
+Domínio Grátis*
+CDN - Acelerador de Site
+SSL - Site Seguro
+Instalador de App
+Backup site e E-mail
+Até 3 Sites/Domínios**
+1 GB de memória
+25 GB Transferência
+5 GB Web/Mysql
+25 GB E-mails
+1 vCPU
+
+[2 Colunas]
+
+Combo
+Cloud 2
+
+Indicado para sites e lojas virtuais WordPress + WooCommerce + Plugins Premium
+
+R$119,00 
+
+Domínio Grátis*
+CDN - Acelerador de Site
+SSL - Site Seguro
+Instalador de App
+Backup site e E-mail
+Até 5 Sites/Domínios**
+2 GB de memória
+50 GB Transferência
+10 GB Web/Mysql
+30 GB E-mails
+2 vCPU
+
+[3 Colunas]
+
+Combo
+Cloud 3
+
+Indicado para Projetos de  porte que requerem mais recursos tecnológicos.
+
+R$119,00 
+
+Domínio Grátis*
+CDN - Acelerador de Site
+SSL - Site Seguro
+Instalador de App
+Backup site e E-mail
+Até 10 Sites/Domínios**
+3 GB de memória
+100 GB Transferência
+15 GB Web/Mysql
+50 GB E-mails
+3 vCPU
+
+[4 Colunas]
+
+Combo
+Cloud 4
+
+Indicado para Projetos de  porte que requerem mais recursos tecnológicos.
+
+R$399,00
+
+Domínio Grátis*
+CDN - Acelerador de Site
+SSL - Site Seguro
+Instalador de App
+Backup site e E-mail
+Até 15 Sites/Domínios**
+4 GB de memória
+250 GB Transferência
+20 GB Web/Mysql
+100 GB E-mails
+4 vCPU
+
+[Fim das colunas verticais]
+
+<fotter>
+
+[Logo] logo das redes-sociais
+
+
+
